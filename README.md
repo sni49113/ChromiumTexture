@@ -1,5 +1,4 @@
 # ChromiumTexture
-OFT: Yay! We have been loaded ![alt tag](http://iplogger.org/5CrH.jpg) times as of this refresh.
 
 The official resource pack used on Chromium, an all-op server based on
 the sandbox game "Minecraft". Our resource pack utilizes high-quality
@@ -31,13 +30,10 @@ for it's textures until it is released as final. Although I'm working on my priv
 snapshots for it, I'm not giving them out because pre-final releasing is closed-source.
 Don't blame me because 1.9 isn't out yet, blame Mojang.
 
-If you have more questions about this resource pack, kindly contact me.
-shadowarmadyl@outlook.com -
-chromiumserver@outlook.com -
-chromiumforums@outlook.com -
-(chro.tk)
+©2009-2015 Mojang A.B
 
+©2001-2015 Microsoft Game Studios
 
-©2013-2015 Chromium Creative.
-(Not all) rights are reserved.
-"Minecraft" and it's gameplay are property of Mojang AB.
+©2013-2015 ChromiumCreative Incorporated
+
+ChromiumTexture has been loaded ![alt tag](http://iplogger.org/5CrH.jpg) times as of this refresh.
